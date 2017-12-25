@@ -1,0 +1,7 @@
+   defaultConfig {
+      
+        multiDexEnabled true
+        ndk{
+            abiFilters "armeabi"
+        }
+    }
